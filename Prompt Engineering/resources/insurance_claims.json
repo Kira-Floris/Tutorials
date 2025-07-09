@@ -1,0 +1,30 @@
+[
+    {
+        "Policy Number": "POL458892",
+        "Claimant Name": "Eleanor Vance",
+        "Date of Loss": "2025-05-12",
+        "Time of Loss": "15:00",
+        "Type of Loss": "Kitchen fire",
+        "Brief Description of Damage": "Main damage to oven and surrounding cabinets, smoke damage in kitchen and dining area",
+        "Estimated Loss Amount": 7500.00,
+        "Injuries Reported": "No"
+    },
+    {"Policy Number": "POL458893", "Claimant Name": "John Smith", "Date of Loss": "2024-11-02", "Time of Loss": "08:15", "Type of Loss": "Water damage", "Brief Description of Damage": "Basement flood due to sump pump failure, carpeting and drywall damage", "Estimated Loss Amount": 12000.00, "Injuries Reported": "No"},
+    {"Policy Number": "POL458894", "Claimant Name": "Maria Garcia", "Date of Loss": "2025-01-20", "Time of Loss": "22:45", "Type of Loss": "Theft", "Brief Description of Damage": "Front door lock broken, jewelry and electronics stolen", "Estimated Loss Amount": 5000.00, "Injuries Reported": "No"},
+    {"Policy Number": "POL458895", "Claimant Name": "Liu Wei", "Date of Loss": "2025-03-05", "Time of Loss": "14:30", "Type of Loss": "Auto collision", "Brief Description of Damage": "Rear-ended in parking lot, bumper and trunk damage", "Estimated Loss Amount": 3500.00, "Injuries Reported": "Yes"},
+    {"Policy Number": "POL458896", "Claimant Name": "Amina Hassan", "Date of Loss": "2024-12-15", "Time of Loss": "06:00", "Type of Loss": "Windstorm damage", "Brief Description of Damage": "Shingles torn off roof, gutter damage", "Estimated Loss Amount": 8000.00, "Injuries Reported": "No"},
+    {"Policy Number": "POL458897", "Claimant Name": "Carlos Alvarez", "Date of Loss": "2025-06-01", "Time of Loss": "19:20", "Type of Loss": "Vandalism", "Brief Description of Damage": "Graffiti on garage door and fence slats scratched", "Estimated Loss Amount": 1500.00, "Injuries Reported": "No"},
+    {"Policy Number": "POL458898", "Claimant Name": "Sara Müller", "Date of Loss": "2025-02-28", "Time of Loss": "11:00", "Type of Loss": "Hail damage", "Brief Description of Damage": "Dents on hood and roof of vehicle, broken windshield", "Estimated Loss Amount": 4200.00, "Injuries Reported": "No"},
+    {"Policy Number": "POL458899", "Claimant Name": "David O'Connor", "Date of Loss": "2024-10-10", "Time of Loss": "04:50", "Type of Loss": "Burglary", "Brief Description of Damage": "Window forced open, safe emptied of cash", "Estimated Loss Amount": 10000.00, "Injuries Reported": "Yes"},
+    {"Policy Number": "POL458900", "Claimant Name": "Nia Johnson", "Date of Loss": "2025-07-01", "Time of Loss": "13:15", "Type of Loss": "Electrical fire", "Brief Description of Damage": "Short circuit in living room outlet, soot damage on walls", "Estimated Loss Amount": 6000.00, "Injuries Reported": "No"},
+    {"Policy Number": "POL458901", "Claimant Name": "Raj Patel", "Date of Loss": "2024-09-22", "Time of Loss": "17:30", "Type of Loss": "Roof collapse", "Brief Description of Damage": "Heavy snowfall collapsed garage roof, structural damage", "Estimated Loss Amount": 25000.00, "Injuries Reported": "No"},
+    {"Policy Number": "POL458902", "Claimant Name": "Olga Petrova", "Date of Loss": "2025-04-14", "Time of Loss": "20:10", "Type of Loss": "Smoke damage", "Brief Description of Damage": "Neighbor's fire caused smoke infiltration, cleanup required", "Estimated Loss Amount": 2300.00, "Injuries Reported": "No"},
+    {"Policy Number": "POL458903", "Claimant Name": "Samuel Kim", "Date of Loss": "2025-05-30", "Time of Loss": "09:00", "Type of Loss": "Water heater leak", "Brief Description of Damage": "Flooring and drywall soaked in utility room", "Estimated Loss Amount": 4500.00, "Injuries Reported": "No"},
+    {"Policy Number": "POL458904", "Claimant Name": "Fatima Khan", "Date of Loss": "2025-06-10", "Time of Loss": "21:45", "Type of Loss": "Kitchen fire", "Brief Description of Damage": "Grease fire spread to cabinets and walls", "Estimated Loss Amount": 9200.00, "Injuries Reported": "Yes"},
+    {"Policy Number": "POL458905", "Claimant Name": "Michael Brown", "Date of Loss": "2024-08-18", "Time of Loss": "12:00", "Type of Loss": "Theft", "Brief Description of Damage": "Bicycle stolen from backyard", "Estimated Loss Amount": 800.00, "Injuries Reported": "No"},
+    {"Policy Number": "POL458906", "Claimant Name": "Elena Rossi", "Date of Loss": "2025-07-05", "Time of Loss": "16:20", "Type of Loss": "Flood", "Brief Description of Damage": "Storm surge flooded ground floor, furniture damage", "Estimated Loss Amount": 18000.00, "Injuries Reported": "No"},
+    {"Policy Number": "POL458907", "Claimant Name": "Tom Nguyen", "Date of Loss": "2024-11-30", "Time of Loss": "18:00", "Type of Loss": "Windstorm damage", "Brief Description of Damage": "Tree branch fell on car and roof shingles", "Estimated Loss Amount": 6700.00, "Injuries Reported": "No"},
+    {"Policy Number": "POL458908", "Claimant Name": "Grace Lee", "Date of Loss": "2025-01-17", "Time of Loss": "10:30", "Type of Loss": "Vandalism", "Brief Description of Damage": "Spray paint on exterior walls and broken mailbox", "Estimated Loss Amount": 2100.00, "Injuries Reported": "No"},
+    {"Policy Number": "POL458909", "Claimant Name": "Ahmed Ali", "Date of Loss": "2025-02-23", "Time of Loss": "07:50", "Type of Loss": "Auto collision", "Brief Description of Damage": "Side-swipe accident, door dented and mirror broken", "Estimated Loss Amount": 5400.00, "Injuries Reported": "Yes"},
+    {"Policy Number": "POL458910", "Claimant Name": "Isabella Martinez", "Date of Loss": "2024-10-05", "Time of Loss": "23:15", "Type of Loss": "Burglary", "Brief Description of Damage": "Locksmith entry after lock tampering, electronics stolen", "Estimated Loss Amount": 7600.00, "Injuries Reported": "No"}
+]
